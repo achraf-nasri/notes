@@ -88,7 +88,7 @@ When you buy a CKAD exam voucher, you get **free access** to:
 ## 🧩 CKAD Mind Map: Key Topics to Remember
 👉 Click the image to open the **interactive Canva mind map**.
 
-[![CKAD Mind Map Preview](Kubernetes-CKAD.png)](https://www.canva.com/design/DAGhlTgE8Lc/qhVRvp2iNqfUYQBwhfxTqA/view)
+[![CKAD Mind Map Preview](../assets/kubernetes-ckad.png)](https://www.canva.com/design/DAGhlTgE8Lc/qhVRvp2iNqfUYQBwhfxTqA/view)
 
 
 ---
