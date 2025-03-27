@@ -9,6 +9,7 @@ These notes are based on my personal learning journey and are meant to be useful
 ## 📄 Contents
 
 - [CKAD Certification Journey](articles/kubernetes-ckad.md)
+- [Exploring Apache Spark Connect: A Minimal Notebook to Run Spark Code Remotely](articles/spark-connect.md)
 
 ---
 
